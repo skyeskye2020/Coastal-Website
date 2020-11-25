@@ -1,2 +1,2 @@
 # Coastal-Website
-Our website directory to allow. 
+Our website directory to allow access to our team. 
